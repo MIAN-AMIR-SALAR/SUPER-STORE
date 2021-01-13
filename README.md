@@ -7,6 +7,10 @@ Initially the password of admin is 123.
 VISUAL C++.  
 FILE NAMED AS Shop.dat in project folder
 
-# Installing  
+![1](https://user-images.githubusercontent.com/77246714/104466558-2f033100-55d7-11eb-8849-8f21736b76ca.PNG)
+![2](https://user-images.githubusercontent.com/77246714/104466564-31658b00-55d7-11eb-99cd-3c30837f02b0.PNG)
+![3](https://user-images.githubusercontent.com/77246714/104466569-3296b800-55d7-11eb-997f-4301d1779cb8.PNG)
+![4](https://user-images.githubusercontent.com/77246714/104466576-33c7e500-55d7-11eb-8999-7885ad0e1ee2.PNG)
+![5](https://user-images.githubusercontent.com/77246714/104466948-94efb880-55d7-11eb-81fb-41826ac6e9f7.PNG)
 
-![Image of installing](https://github.com/images/1.png)
+
