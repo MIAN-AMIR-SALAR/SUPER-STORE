@@ -23,3 +23,7 @@ User is able to CREATE AN INVOICE
 User is able to search any products by product number  
 User is able to update the price  
 User is able to delete any product  
+
+### SCREENSHOTS
+
+## WELCOME PAGE
