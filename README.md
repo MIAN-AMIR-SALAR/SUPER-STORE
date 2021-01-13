@@ -14,14 +14,12 @@ FILE NAMED AS Shop.dat in project folder
 ![5](https://user-images.githubusercontent.com/77246714/104466948-94efb880-55d7-11eb-81fb-41826ac6e9f7.PNG)
 
 # User Story
-User is able to select admin and customer option
-User is able to CREATE PRODUCT
-User is able to DISPLAY ALL PRODUCTS 
-User is able to MODIFY PRODUCTS 
-User is able to VIEW PRODUCT MENU 
-User is able to CREATE AN INVOICE
-User is able to 
-User is able to 
-User is able to search any products by product number
-User is able to update the price
-User is able to delete any product
+User is able to select admin and customer option  
+User is able to CREATE PRODUCT  
+User is able to DISPLAY ALL PRODUCTS   
+User is able to MODIFY PRODUCTS   
+User is able to VIEW PRODUCT MENU   
+User is able to CREATE AN INVOICE  
+User is able to search any products by product number  
+User is able to update the price  
+User is able to delete any product  
