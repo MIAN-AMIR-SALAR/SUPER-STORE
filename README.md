@@ -24,36 +24,36 @@ User is able to search any products by product number
 User is able to update the price  
 User is able to delete any product  
 
-## SCREENSHOTS
+# SCREENSHOTS
 
-### WELCOME PAGE  
+## WELCOME PAGE  
 ![0](https://user-images.githubusercontent.com/77246714/104556368-4b4bb000-5661-11eb-9978-9f23d9cb56fe.png)  
 
-### MAIN MENU
+## MAIN MENU
 ![1](https://user-images.githubusercontent.com/77246714/104556199-f9a32580-5660-11eb-8fe7-038fefe59201.png)
 
-### PASSWORD AUNTHENTICATION
+## PASSWORD AUNTHENTICATION
 ![2](https://user-images.githubusercontent.com/77246714/104556200-fa3bbc00-5660-11eb-88d3-11e172f7e011.png)  
 ![3](https://user-images.githubusercontent.com/77246714/104556201-fad45280-5660-11eb-9164-dcdca1ef2a58.png)
 
-### ADMIN PANNEL
+## ADMIN PANNEL
 ![4](https://user-images.githubusercontent.com/77246714/104556202-fad45280-5660-11eb-94bc-4c45de42c772.png) 
 
-#### CREATE PRODUCT
+### CREATE PRODUCT
 ![5](https://user-images.githubusercontent.com/77246714/104556205-fb6ce900-5660-11eb-8b82-dd272bbe2fab.png)  
 ![8](https://user-images.githubusercontent.com/77246714/104556211-fc9e1600-5660-11eb-96a6-e6e29546b6e8.png)
-#### DISPLAY RECORDS
+### DISPLAY RECORDS
 ![6](https://user-images.githubusercontent.com/77246714/104556208-fc057f80-5660-11eb-8fc4-901182091bd5.png)
 ![7](https://user-images.githubusercontent.com/77246714/104556209-fc9e1600-5660-11eb-9908-daf32f7a1a72.png)
 ![9](https://user-images.githubusercontent.com/77246714/104556214-fd36ac80-5660-11eb-8a00-eaa4b4c70315.png)
 
-### CUSTOMER PANNEL
+## CUSTOMER PANNEL
 ![10](https://user-images.githubusercontent.com/77246714/104556216-fdcf4300-5660-11eb-895c-4de11423ee1d.png)
 
-#### PRODUCT SELECTION
+### PRODUCT SELECTION
 ![11](https://user-images.githubusercontent.com/77246714/104556219-fe67d980-5660-11eb-9541-a130d8bc8ce2.png)
 
-#### INVOICE GENERATOR
+### INVOICE GENERATOR
 ![12](https://user-images.githubusercontent.com/77246714/104556197-f871f880-5660-11eb-9963-11e1dcb8ff42.png)
 
 
