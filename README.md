@@ -11,7 +11,11 @@ FILE NAMED AS Shop.dat in project folder
 ![2](https://user-images.githubusercontent.com/77246714/104466564-31658b00-55d7-11eb-99cd-3c30837f02b0.PNG)
 ![3](https://user-images.githubusercontent.com/77246714/104466569-3296b800-55d7-11eb-997f-4301d1779cb8.PNG)
 ![4](https://user-images.githubusercontent.com/77246714/104466576-33c7e500-55d7-11eb-8999-7885ad0e1ee2.PNG)
-![5](https://user-images.githubusercontent.com/77246714/104466948-94efb880-55d7-11eb-81fb-41826ac6e9f7.PNG)
+![5](https://user-images.githubusercontent.com/77246714/104466948-94efb880-55d7-11eb-81fb-41826ac6e9f7.PNG)  
+
+# ADD Shop.dat FILE IN PROJECT FOLDER
+![shop](https://user-images.githubusercontent.com/77246714/104560341-8fda4a00-5667-11eb-970b-872380c68da3.gif)  
+
 
 # User Story
 User is able to select admin and customer option  
